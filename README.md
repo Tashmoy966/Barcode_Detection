@@ -8,4 +8,5 @@ To perform barcode detection and decoding in python.
  
 **Output details / Features**
   1.Input Image
-   https://drive.google.com/file/d/1w0FF7xpEHJ5fjiMicJww3Oq48zBIeHEw/view?usp=sharing
+   (https://user-images.githubusercontent.com/87931949/217025686-ab4a734e-09b3-443d-a119-114fa795d762.png)
+m/file/d/1w0FF7xpEHJ5fjiMicJww3Oq48zBIeHEw/view?usp=sharing
