@@ -7,6 +7,7 @@ To perform barcode detection and decoding in python.
   3. Some of the items might be repeated.
  
 **Output details / Features**
+
   1.Input Image
-   (https://user-images.githubusercontent.com/87931949/217025686-ab4a734e-09b3-443d-a119-114fa795d762.png)
-m/file/d/1w0FF7xpEHJ5fjiMicJww3Oq48zBIeHEw/view?usp=sharing
+  
+   ![Screenshot from 2023-02-06 21-27-03](https://user-images.githubusercontent.com/87931949/217548498-2fc137ea-1418-4eed-b701-41bb66b25e6a.png)
