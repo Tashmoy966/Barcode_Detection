@@ -16,4 +16,7 @@ To perform barcode detection and decoding in python.
   
    ![Screenshot from 2023-02-08 19-23-10](https://user-images.githubusercontent.com/87931949/217549352-35f8a4f7-0ef8-4d3b-a274-d6cd3980d69d.png)
 
-  3. 
+  3.The value of every barcode, and how many times every barcode appears in the image ( there could be repetitions of the barcode). This output
+     could be printed.
+     
+   ![Screenshot from 2023-02-09 01-29-27](https://user-images.githubusercontent.com/87931949/217638404-2be7ac3e-d423-4e50-8c5f-3b825e01a901.png)
