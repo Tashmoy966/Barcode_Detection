@@ -4,3 +4,5 @@ matplotlib
 opencv
 pyzbar
 imutils
+jupyter
+notebook>=5.7.2
