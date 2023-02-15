@@ -23,4 +23,5 @@ To perform barcode detection and decoding in python.
   
   4.Create bounding boxes of black color around each ITEM in the image ( not the barcode)
   
-  ![Screenshot from 2023-02-12 16-36-03](https://user-images.githubusercontent.com/87931949/218307358-495ffba3-2166-400b-b988-f90950dc3432.png)
+   ![Screenshot from 2023-02-15 23-11-03](https://user-images.githubusercontent.com/87931949/219109764-e7428cf5-067c-448a-b304-a96fb05629e2.png)
+
