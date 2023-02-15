@@ -25,3 +25,10 @@ To perform barcode detection and decoding in python.
   
    ![Screenshot from 2023-02-15 23-11-03](https://user-images.githubusercontent.com/87931949/219109764-e7428cf5-067c-448a-b304-a96fb05629e2.png)
 
+ *Installation*:
+ 
+ 1.Creating a virtual environment
+    
+    Link: https://www.geeksforgeeks.org/python-virtual-environment/
+    
+ 2.
