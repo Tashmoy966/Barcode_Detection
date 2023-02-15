@@ -27,8 +27,10 @@ To perform barcode detection and decoding in python.
 
  **Installation**:
  
-  1. Creating a virtual environment
+  1. Creating a virtual environment:
     
     Link: https://www.geeksforgeeks.org/python-virtual-environment/
     
-  2. 
+  2. Installing libraries utilized:
+  
+    pip(or pip3) install -r /path/to/requirements.txt
